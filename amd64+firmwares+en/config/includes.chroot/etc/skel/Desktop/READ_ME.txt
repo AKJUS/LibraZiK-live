@@ -30,5 +30,5 @@ Some info in English are available online here:
 C. Install LibraZiK-4 on your hard drive
 ----------------------------------------
 
-You can try : "Applications menu -> Install LibraZiK-4 Audio Studio".
+You can try : "Applications menu -> System tools -> Install Debian".
 And/or go to the address: https://doc4.librazik.org/en/manuel
